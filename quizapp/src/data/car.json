@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "name": "forester",
+        "price": 1400000,
+        "year": 2015,
+        "contact":{
+            "dealer":"motors",
+            "number":"999-999-999"
+        }
+    },
+    {
+        "id":2,
+        "name": "alto",
+        "price": 100000,
+        "year": 2016,
+        "contact":{
+            "dealer":"dmx",
+            "number":"222-999-999"
+        }
+    },
+    {
+        "id":3,
+        "name": "Navara",
+        "price": 12000000,
+        "year": 2019,
+        "contact":{
+            "dealer":"auto",
+            "number":"666-999-999"
+        }
+    },
+    {
+        "id":4,
+        "name": "G-wagon",
+        "price": 1900000,
+        "year": 2019,
+        "contact":{
+            "dealer":"shows",
+            "number":"555-999-999"
+        }
+    },
+    {
+        "id":5,
+        "name": "range",
+        "price": 1400000,
+        "year": 2022,
+        "contact":{
+            "dealer":"jap",
+            "number":"888-999-999"
+        }
+    },
+    {
+        "id":6,
+        "name": "bently",
+        "price": 3000000,
+        "year": 2017,
+        "contact":{
+            "dealer":"alasiri",
+            "number":"000-999-999"
+        }
+    }
+]
